@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: 11.0.16 (Ubuntu)
+Main-Class: mam3/ipa/projet/MainClass
+Class-Path: lib/jai_codec.jar lib/jai_core.jar lib/mlibwrapper_jai.jar
+
